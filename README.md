@@ -70,9 +70,7 @@ pip install seaborn
 
 Yixin Cheng: Crawl data, Data Wrangling, Data Visualization, Data Analysis,Focus on race search coefficient and  diverse state relationship (Question 1,3), preparation for video
 
-Xiangcheng Cao: Crawl data,Data Wrangling, Data Visualization,  Data Analysis, Focus on red and blue state and racial discrimination (Question 4),
-
-preparation for video
+Xiangcheng Cao: Crawl data,Data Wrangling, Data Visualization,  Data Analysis, Focus on red and blue state and racial discrimination (Question 4),preparation for video
 
 Jiaqi Wang: Data Wrangling, Data Analysis,Data Visualization,  Focus on threshold coefficient and diverse state relationship(Question 2),preparation for video
 
