@@ -28,3 +28,14 @@ Milestone P3:
      week 2: assign specific questions to each member to complete. Yixin Cheng will work on question 1 and 3, Jiaqi Wang will work on question 2 and 3, Xiangcheng                     Cao will work on question 4.
      week 3: all members will focus on preparing all needed figures and examples, writing the data story and report. And according to the time situation and the                             division of labor, the members complete the short video recording and conclusion arrangement.
 
+
+
+# Contributions:
+
+Yixin Cheng: Crawl data, Data Wrangling, Data Visualization, Focus on rate search coefficient and  diverse state relationship
+
+Xiangcheng Cao: Crawl data, Data Visualization, Preprocess Data Analysis, Focus on red and blue state and racial discrimination
+
+Jiaqi Wang: Data Analysis, Preparation for video, Summary for report and code,  Focus on threshold coefficient and diverse state relationship
+
+The team collaborate well together and work together to write the report.
